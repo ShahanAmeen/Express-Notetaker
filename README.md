@@ -9,9 +9,7 @@ In this assignment I've demonstarted a note taker that allows to write notes and
 ![Alt text](expressnotetaker.png)
 
 ## URL
-https://github.com/ShahanAmeen/Employee-portfolio
-<br>
-https://shahanameen.github.io/Employee-portfolio/
+https://github.com/ShahanAmeen/Express-Notetaker
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
