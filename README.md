@@ -10,6 +10,7 @@ In this assignment I've demonstarted a note taker that allows to write notes and
 
 ## URL
 https://github.com/ShahanAmeen/Express-Notetaker
+https://shahanameen.github.io/Express-Notetaker/
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
